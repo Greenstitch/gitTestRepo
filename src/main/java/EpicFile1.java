@@ -1,0 +1,2 @@
+public class EpicFile1 {
+}
